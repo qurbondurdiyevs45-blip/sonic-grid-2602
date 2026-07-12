@@ -1,0 +1,15 @@
+{
+  "name": "sonic-grid-2602",
+  "version": "0.1.0",
+  "generator": "PushForge Engine",
+  "capabilities": [
+    "ideate",
+    "compose",
+    "commit"
+  ],
+  "manifest": {
+    "entry": "src/index.ts",
+    "seed": 4810,
+    "createdAt": "2026-07-12T11:03:14.254Z"
+  }
+}
